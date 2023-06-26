@@ -54,9 +54,22 @@ yarn add cors
 yarn add -D @types/cors
 ```
 
-
 ### add zod for validate input mutations
 
 ```bash
 yarn add zod
+```
+
+## Config a DB (prisma) = npx prisma studio
+
+```bash
+yarn add @prisma/client -D prisma
+```
+
+```bash
+npx prisma migrate dev --name init
+```
+
+```bash
+npx prisma migrate dev --name init
 ```
