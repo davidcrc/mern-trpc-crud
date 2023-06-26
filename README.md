@@ -1,5 +1,7 @@
 ## mern-trpc-crud - backend
 
+client for this BE: https://github.com/davidcrc/client-trpc
+
 ## setup
 
 ```bash
