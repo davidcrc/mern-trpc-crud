@@ -25,6 +25,7 @@ npx tsc --init
 ```
 
 ### add express
+
 ```bash
 yarn add express @trpc/server
 ```
@@ -44,4 +45,11 @@ yarn add -D @types/dotenv
 ```bash
 yarn add morgan
 yarn add -D @types/morgan
+```
+
+### add cors
+
+```bash
+yarn add cors
+yarn add -D @types/cors
 ```
