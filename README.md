@@ -53,3 +53,10 @@ yarn add -D @types/morgan
 yarn add cors
 yarn add -D @types/cors
 ```
+
+
+### add zod for validate input mutations
+
+```bash
+yarn add zod
+```
